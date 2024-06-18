@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adelaliaskari
-- 👀 I’m interested in Scrum Mater position
+- 👀 I’m interested in Scrum Mater , Agile , Jira , Azure DevOps and SAFe
 - 🌱 I’m currently learning  
 - 💞️ I’m looking to collaborate on Software projects
 - 📫 How to reach me : adel.aliaskari@gmail.com
