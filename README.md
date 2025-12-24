@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adelaliaskari
-- 👀 I’m interested in Scrum , Agile , Jira , Azure DevOps and SAFe
+- 👀 I’m interested in Scrum , Agile , Jira ,n8n, Azure DevOps and SAFe
 - 🌱 I’m currently learning  
 - 💞️ I’m looking to collaborate on Software projects as a Scrum Master or Agile coach
 - 📫 How to reach me : adel.aliaskari@gmail.com
